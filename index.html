@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Séances Kayak</title>
+  <meta name="description" content="Carnet de séances collaboratif pour club de kayak — saisie rapide, météo et débit automatiques, suivi de progression Pagaies Couleurs FFCK." />
+  <meta name="theme-color" content="#2678c4" />
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js" defer></script>
+</head>
+<body>
+  <header class="app-header">
+    <span class="app-header-logo">🛶</span>
+    <span class="app-header-title">Séances Kayak</span>
+    <span id="sync-badge" class="sync-badge" hidden></span>
+  </header>
+
+  <main id="content" class="app-content"></main>
+
+  <nav id="bottom-nav" class="bottom-nav"></nav>
+
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

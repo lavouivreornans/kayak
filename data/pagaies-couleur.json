@@ -1,0 +1,813 @@
+{
+  "_version": 2,
+  "_source": "Référentiels officiels FFCK 2022-2023 : Kayak (Blanche, Jaune) — tronc commun — puis Descente (Randonnée) et Rivière Sportive (Eau vive) à partir de la Verte. https://www.ffck.org/formation/pagaies-couleurs/referentiels-pagaies-couleurs/",
+  "_note": "Ce référentiel est modifiable depuis l'écran Réglages > Référentiel de l'application. Les critères portant un même 'cle' sont communs aux deux parcours : valider l'un valide automatiquement l'autre. Vérifiez ce référentiel par rapport aux documents officiels FFCK en cas de doute (ils évoluent de temps en temps).",
+
+  "troncCommun": [
+    {
+      "id": "blanche",
+      "nom": "Pagaie Blanche",
+      "discipline": "Kayak",
+      "couleur": "#e8e8e8",
+      "couleurTexte": "#333333",
+      "ordre": 1,
+      "prerequis": "Licencié·e (sauf pratique scolaire). Avoir validé son test d'aisance aquatique.",
+      "profilPagayeur": "Débutant·e",
+      "sitePratique": "Eau calme / courant ≤ classe I / vent ≤ 1 Beaufort / proximité de la base",
+      "capacites": [
+        {
+          "nom": "Sécurité",
+          "categories": [
+            {
+              "nom": "Connaissance de son matériel et utilisation",
+              "criteres": [
+                "Mettre et ajuster son gilet.",
+                "S'installer correctement dans son embarcation (calages)."
+              ]
+            },
+            {
+              "nom": "Aisance ou intervention aquatique",
+              "criteres": [
+                "Vider son embarcation avec de l'aide.",
+                "Se dissocier de son embarcation et rassembler son matériel en cas de dessalage avec une aide extérieure.",
+                "Ré-embarquer en eau profonde avec une aide extérieure."
+              ]
+            },
+            {
+              "nom": "Communication",
+              "criteres": [
+                "Appliquer les consignes de sécurité."
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "Technique et culture sportive",
+          "categories": [
+            {
+              "nom": "Habiletés techniques et motrices",
+              "criteres": [
+                "Connaître le positionnement des mains sur la pagaie.",
+                "Observer et comprendre le principe d'action de la pagaie et de réaction du kayak (marche avant, marche arrière, tourner à droite ou à gauche).",
+                "Se déplacer en avant, en arrière, tourner.",
+                "Se situer dans un groupe de plusieurs embarcations et respecter les limites de navigation établies.",
+                "Embarquer / Débarquer."
+              ]
+            },
+            {
+              "nom": "Communication",
+              "criteres": [
+                "Comprendre le vocabulaire élémentaire de la pratique en kayak (gilet, pagaie simple ou double, canoë, kayak, marche avant, marche arrière).",
+                "Exprimer son ressenti."
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "Environnement",
+          "categories": [
+            {
+              "nom": "Connaissance et prise en compte de l'environnement de pratique",
+              "criteres": [
+                "Identifier des éléments caractéristiques du paysage.",
+                "Décrire d'où vient l'eau de son site de pratique.",
+                "Relever une trace de l'homme.",
+                "Reconnaître quelques animaux et végétaux sur le site de pratique."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jaune",
+      "nom": "Pagaie Jaune",
+      "discipline": "Kayak",
+      "couleur": "#f5c518",
+      "couleurTexte": "#4a3800",
+      "ordre": 2,
+      "prerequis": "Licencié·e (sauf pratique scolaire). Démontrer les compétences d'une Pagaie Blanche Kayak.",
+      "profilPagayeur": "Initié·e",
+      "sitePratique": "Plan d'eau fermé / courant maximum classe 2 / vent ≤ 2 Beauforts",
+      "capacites": [
+        {
+          "nom": "Sécurité",
+          "categories": [
+            {
+              "nom": "Connaissance de son matériel et utilisation",
+              "criteres": [
+                "Choisir du matériel adapté (pagaie, gilet).",
+                "Ajuster ses calages.",
+                "Vider son embarcation seul·e."
+              ]
+            },
+            {
+              "nom": "Aisance ou intervention aquatique",
+              "criteres": [
+                "Dessaler sans crainte, se dissocier de son embarcation et rassembler son matériel en autonomie.",
+                "Nager avec son matériel.",
+                "Rembarquer seul·e en eau profonde.",
+                "Aider un autre pagayeur, une autre pagayeuse à réembarquer en eau profonde."
+              ]
+            },
+            {
+              "nom": "Communication",
+              "criteres": [
+                "Exprimer son ressenti.",
+                "Appliquer les consignes de sécurité."
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "Technique et culture sportive",
+          "categories": [
+            {
+              "nom": "Culture sportive",
+              "criteres": [
+                "Comprendre le vocabulaire technique élémentaire de la pratique des sports de pagaie : matériel (gilet / pagaie / canoë ou kayak), manœuvres (propulsion / rétropulsion ou dénage / circulaire / gouvernail)."
+              ]
+            },
+            {
+              "nom": "Habiletés tactiques et stratégiques",
+              "criteres": [
+                "Communiquer avec son équipier·ère pour collaborer sur le projet de navigation."
+              ]
+            },
+            {
+              "nom": "Habiletés techniques et motrices",
+              "criteres": [
+                "Maintenir une position correcte des mains sur la pagaie.",
+                "Se diriger dans une direction précise en adoptant une trajectoire rectiligne.",
+                "S'arrêter.",
+                "Tourner en cercle sur place.",
+                "Reculer.",
+                "Se déplacer latéralement.",
+                "Embarquer et débarquer sans aide extérieure."
+              ]
+            }
+          ]
+        },
+        {
+          "nom": "Environnement",
+          "categories": [
+            {
+              "nom": "Facteurs physiques, faune & flore, patrimoine et réglementation",
+              "criteres": [
+                "Respecter les consignes pour limiter son impact sur l'environnement (faune et flore).",
+                "Repérer visuellement les phénomènes de courant ou de marée en mer.",
+                "Identifier différentes familles d'animaux et de végétaux présentes sur le site de pratique.",
+                "Respecter les usagers du site de pratique."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "parcours": [
+    {
+      "id": "eauvive",
+      "nom": "Eau vive (Rivière Sportive)",
+      "icone": "🌊",
+      "niveaux": [
+        {
+          "id": "verte-eauvive",
+          "nom": "Pagaie Verte",
+          "discipline": "Rivière Sportive",
+          "couleur": "#2e9e4f",
+          "couleurTexte": "#ffffff",
+          "ordre": 1,
+          "prerequis": "Licencié·e permanent·e titulaire d'une pagaie jaune ou ayant intégré les compétences de la pagaie jaune (démontrer l'acquisition des niveaux précédents).",
+          "profilPagayeur": "Pratiquant·e dépendant de l'encadrement en classe 2. Se déplace avec efficience dans toutes les directions en rivière de classe 2. Navigue dans une embarcation pontée avec une pagaie adaptée.",
+          "sitePratique": "Rivière de classe II",
+          "capacites": [
+            {
+              "nom": "Sécurité",
+              "categories": [
+                {
+                  "nom": "Connaissance de son matériel et utilisation",
+                  "criteres": [
+                    "Utiliser un matériel adapté aux conditions de pratique (tenues, casque, gilet, jupette, bateau, chaussures fermées).",
+                    "Naviguer dans une embarcation pontée avec une pagaie adaptée."
+                  ]
+                },
+                {
+                  "nom": "Aisance ou intervention aquatique",
+                  "criteres": [
+                    "Esquimauter en rivière de classe II.",
+                    "Maîtriser en classe II les techniques de nage défensive et de nage active ou offensive.",
+                    "Réceptionner une corde en tant que nageur.",
+                    "Récupérer une pagaie à la dérive.",
+                    "Naviguer en convoi, en respectant une distance de sécurité avec ses partenaires.",
+                    "En classe II, repérer les mouvements d'eau, identifier les dangers et la trajectoire à adopter.",
+                    "Adopter la bonne conduite en cas de passage forcé dans un obstacle situé au-dessus de l'eau.",
+                    "Rejoindre le bord à la nage avec son matériel à la fin d'un rapide."
+                  ]
+                },
+                {
+                  "nom": "Communication",
+                  "criteres": [
+                    { "texte": "Comprendre et relayer les signes organisationnels et directionnels indispensables à la navigation en groupe.", "cle": "comm-verte-signes" },
+                    "Connaître le vocabulaire spécifique à l'activité rivière sportive (boofer, gicler, poser à plat, utiliser la care…)."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Technique et culture sportive",
+              "categories": [
+                {
+                  "nom": "Culture sportive",
+                  "criteres": [
+                    "Expliquer les principes techniques fondamentaux.",
+                    "Connaître l'histoire et les origines des sports de pagaie.",
+                    "Respecter les principes détaillés dans le code du pratiquant."
+                  ]
+                },
+                {
+                  "nom": "Habiletés tactiques et stratégiques",
+                  "criteres": [
+                    "Anticiper le dérapage et guider le kayak sur des trajectoires préétablies.",
+                    "Appliquer les consignes du cadre et adapter sa navigation en fonction des informations du groupe.",
+                    "Prendre des repères visuels (depuis la berge et sur l'eau) afin de réaliser, adapter ou corriger une trajectoire."
+                  ]
+                },
+                {
+                  "nom": "Habiletés techniques et motrices",
+                  "criteres": [
+                    "Naviguer avec aisance et placer ses appuis de manière pertinente.",
+                    "Gérer l'équilibre de l'embarcation et évoluer dans toutes les directions selon des trajectoires choisies (bac, reprise, arrêt dans des contres sur les deux berges et derrière un rocher en milieu de courant, remonter une veine d'eau).",
+                    "Pagayer efficacement pour se diriger en marche avant, en marche arrière et tourner rapidement.",
+                    "Réaliser un départ à l'américaine.",
+                    "Utiliser les appuis des jambes, dissocier le haut et le bas du corps.",
+                    "Se propulser pagaie verticale, dans l'axe du bateau en mobilisant les muscles dorsaux et le gainage.",
+                    "Se rétablir en cas de déséquilibre en créant un appui dur dans l'eau."
+                  ]
+                },
+                {
+                  "nom": "Habiletés mentales",
+                  "criteres": [
+                    "Contrôler la peur de se retourner, déjuper et nager en classe II."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Environnement",
+              "categories": [
+                {
+                  "nom": "Facteurs physiques, faune & flore, patrimoine et réglementation",
+                  "criteres": [
+                    { "texte": "Repérer les zones d'accès à l'eau permettant d'éviter le piétinement de la flore ou le dérangement de la faune.", "cle": "env-verte-01" },
+                    { "texte": "Respecter les zones d'habitat ou les frayères essentielles dans la préservation des écosystèmes locaux.", "cle": "env-verte-02" },
+                    { "texte": "Respecter les zones de navigation.", "cle": "env-verte-03" },
+                    { "texte": "Identifier les éléments clés du site de pratique et les dangers qu'ils peuvent représenter.", "cle": "env-verte-04" },
+                    { "texte": "Connaître et identifier différents mouvements d'eau.", "cle": "env-verte-05" },
+                    { "texte": "Observer les phénomènes de l'eau vive.", "cle": "env-verte-06" },
+                    { "texte": "Situer son site de pratique dans le cycle de l'eau.", "cle": "env-verte-07" },
+                    { "texte": "Comprendre le rôle des végétaux par rapport aux écoulements, au maintien des berges et à la qualité de l'eau.", "cle": "env-verte-08" },
+                    { "texte": "Gérer ses déchets.", "cle": "env-verte-09" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bleue-eauvive",
+          "nom": "Pagaie Bleue",
+          "discipline": "Rivière Sportive",
+          "couleur": "#2678c4",
+          "couleurTexte": "#ffffff",
+          "ordre": 2,
+          "prerequis": "Licencié·e permanent·e titulaire d'une pagaie verte ou ayant intégré les compétences de la pagaie verte.",
+          "profilPagayeur": "Pratiquant·e autonome en rivière de classe 3. Assure sa sécurité, participe à l'ouverture et à la mise en œuvre de la sécurité pendant une descente en classe 3. Prend des informations visuelles bien en amont des risques. Navigue sur au moins dix rivières naturelles différentes de classe 3.",
+          "sitePratique": "Rivière de classe 3",
+          "capacites": [
+            {
+              "nom": "Sécurité",
+              "categories": [
+                {
+                  "nom": "Connaissance de son matériel et utilisation",
+                  "criteres": [
+                    "Attacher fixement un creek boat sur une remorque ou une galerie.",
+                    "S'équiper et utiliser dans le cadre de la pratique un gilet avec harnais, un leash, un casque, une corde de sécurité et un couteau.",
+                    "Avoir une pharmacie et un moyen de communication fonctionnel pour le groupe de navigation."
+                  ]
+                },
+                {
+                  "nom": "Aisance ou intervention aquatique",
+                  "criteres": [
+                    "Esquimauter en classe III.",
+                    "Maîtriser en classe III les techniques de nage défensive et de nage active ou offensive.",
+                    "Lancer la corde pour ramener un nageur au bord.",
+                    "Réceptionner une corde en tant que nageur.",
+                    "Après dessalage, rejoindre le bord à la nage avec son matériel à la fin d'un rapide.",
+                    "Récupérer un nageur à la dérive.",
+                    "Récupérer une embarcation à la dérive.",
+                    "Identifier les dangers et mettre en place la sécurité adaptée sur un rapide de classe III."
+                  ]
+                },
+                {
+                  "nom": "Communication",
+                  "criteres": [
+                    "Utiliser les signes organisationnels et directionnels d'aide à la navigation et désignant un danger sur les descentes de rivières.",
+                    "Utiliser le vocabulaire spécifique à l'activité rivière sportive (boofer, gicler, poser à plat, utiliser la care…)."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Technique et culture sportive",
+              "categories": [
+                {
+                  "nom": "Culture sportive",
+                  "criteres": [
+                    "Respecter la signification des panneaux de signalisation rencontrés dans la pratique en rivière.",
+                    "S'échauffer avant une sortie.",
+                    "Avoir des notions de traumatologie, d'hypothermie et d'alimentation, connaître leurs implications dans le cadre de la pratique rivière sportive.",
+                    "Décrire, identifier et connaître les attitudes sécuritaires à adopter pour les phénomènes de rappel, siphon, marmite, portefeuille et drossage.",
+                    "Connaître les éléments réglementaires liés à la sécurité."
+                  ]
+                },
+                {
+                  "nom": "Habiletés tactiques et stratégiques",
+                  "criteres": [
+                    "Manœuvrer son embarcation de manière économe en utilisant les courants et contre-courants pour se diriger.",
+                    "Prendre des informations visuelles bien en amont des risques.",
+                    "Élaborer un projet de navigation en fonction de son niveau de pratique et de la rivière."
+                  ]
+                },
+                {
+                  "nom": "Habiletés techniques et motrices",
+                  "criteres": [
+                    "Naviguer avec aisance et placer ses appuis de façon pertinente en classe III.",
+                    "Déposer des rouleaux et des seuils.",
+                    "Modifier sa trajectoire rapidement ou s'arrêter en cas d'imprévu.",
+                    "S'arrêter, débarquer et embarquer en urgence.",
+                    "Naviguer en vitesse négative (bac arrière).",
+                    "Créer des appuis longs de guidage et des appuis explosifs pour accélérer le bateau.",
+                    "Utiliser l'assiette et la gîte afin d'accompagner les mouvements d'eau.",
+                    "Mobiliser avec efficience les muscles dorsaux et la chaîne de gainage pour donner de la vitesse au bateau."
+                  ]
+                },
+                {
+                  "nom": "Habiletés mentales",
+                  "criteres": [
+                    "Se projeter sur une descente de rivière et mettre en œuvre le schéma de navigation préétabli.",
+                    "Connaître ses capacités et les prendre en compte dans son projet de navigation.",
+                    "Naviguer à vue, à toutes les places dans un convoi et s'y sentir à l'aise.",
+                    "S'adapter efficacement et rapidement à une nouvelle situation sur l'eau."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Environnement",
+              "categories": [
+                {
+                  "nom": "Facteurs physiques, faune & flore, patrimoine et réglementation",
+                  "criteres": [
+                    { "texte": "En cours de navigation, identifier avec précision les conditions environnementales et configurations types sur le lieu de pratique.", "cle": "env-bleue-01" },
+                    { "texte": "Repérer l'évolution des conditions de navigation en croisant les données météorologiques et des caractéristiques du bassin versant pour adapter sa navigation.", "cle": "env-bleue-02" },
+                    { "texte": "Comprendre le réseau hydrographique du site de pratique.", "cle": "env-bleue-03" },
+                    { "texte": "Respecter les règles de navigation en eau intérieure.", "cle": "env-bleue-04" },
+                    { "texte": "Comprendre le rôle des végétaux par rapport à la qualité de l'eau.", "cle": "env-bleue-05" },
+                    { "texte": "Comprendre le phénomène de la turbidité de l'eau et le phénomène d'eutrophisation.", "cle": "env-bleue-06" },
+                    { "texte": "Repérer une espèce invasive potentiellement présente sur le site.", "cle": "env-bleue-07" },
+                    { "texte": "Modifier son programme de navigation pour éviter le dérangement de la faune et la dégradation de zones de reproduction.", "cle": "env-bleue-08" },
+                    { "texte": "Respecter les recommandations d'utilisation des matériaux de réparation.", "cle": "env-bleue-09" },
+                    { "texte": "Identifier les acteurs locaux de la gestion de l'espace et du site de pratique habituel.", "cle": "env-bleue-10" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rouge-eauvive",
+          "nom": "Pagaie Rouge",
+          "discipline": "Rivière Sportive",
+          "couleur": "#d1263a",
+          "couleurTexte": "#ffffff",
+          "ordre": 3,
+          "prerequis": "Licencié·e permanent·e titulaire d'une pagaie bleue de la même discipline ou d'une pagaie rouge d'une autre discipline du même milieu (ou équivalent Euro Paddle Pass), ou ayant obtenu par équivalence les capacités technique et culture sportive.",
+          "profilPagayeur": "Pratiquant·e autonome dans un groupe de navigation en rivière de classe IV. Membre d'un groupe de navigation en classe IV, en position de second·e, participe à la sécurité. Navigue sur au moins dix rivières naturelles différentes de classe III passages IV.",
+          "sitePratique": "Rivière de classe IV",
+          "capacites": [
+            {
+              "nom": "Sécurité",
+              "categories": [
+                {
+                  "nom": "Connaissance de son matériel et utilisation",
+                  "criteres": [
+                    "Entretenir et réparer le matériel de navigation.",
+                    "S'équiper individuellement en cohérence avec les conditions météorologiques (thermiques notamment) et de navigation (équipement adapté à la rivière).",
+                    "Disposer d'un gilet à harnais et, pour une utilisation efficiente, d'une corde, d'un couteau, d'un sifflet, d'une montre, de mousquetons et poulies, d'une sangle et d'anneaux de cordelettes, d'une pharmacie, d'une pagaie de secours, d'une scie pliable et d'un moyen de communication."
+                  ]
+                },
+                {
+                  "nom": "Aisance ou intervention aquatique",
+                  "criteres": [
+                    "Maîtriser l'esquimautage en classe IV (eau émulsionnée ou fort courant et grosses vagues).",
+                    "Participer activement à la sécurité préventive et active en classe III-IV.",
+                    "Traverser un pagayeur d'une berge à l'autre.",
+                    "Maîtriser les techniques de sauvetage en étant plongeur encordé ou tireur.",
+                    "Maîtriser des techniques de nœuds indispensables à la navigation en rivière (nœuds fixes, débrayables et largables).",
+                    "Maîtriser la mise en œuvre d'un avantage mécanique (palan).",
+                    "Esquimauter des deux côtés en rivière de classe III.",
+                    "Naviguer en convoi en respectant une distance de sécurité avec ses partenaires."
+                  ]
+                },
+                {
+                  "nom": "Communication",
+                  "criteres": [
+                    "Utiliser et transmettre pendant la navigation les signes organisationnels et directionnels, d'aide à la navigation et de désignation d'un danger.",
+                    "Être acteur dans les consignes, la prise de décision des projets de navigation et de mise en place de la sécurité sur la rivière.",
+                    "Comprendre et se faire comprendre en communiquant par signes et avec un sifflet.",
+                    "Être explicite dans la formulation orale de son ressenti de navigation."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Technique et culture sportive",
+              "categories": [
+                {
+                  "nom": "Culture sportive",
+                  "criteres": [
+                    "Présenter des exercices de renforcement musculaire permettant d'améliorer la pratique (posture…) en rivière sportive.",
+                    "Identifier les observables simples (supports vidéo, photos…) pour s'améliorer techniquement."
+                  ]
+                },
+                {
+                  "nom": "Habiletés tactiques et stratégiques",
+                  "criteres": [
+                    "En classe IV, repérer les mouvements d'eau, identifier les dangers, les obstacles à éviter et ceux à utiliser pour définir la trajectoire à adopter et la sécurité à mettre en œuvre.",
+                    "Identifier les zones de portage en cas de section trop engagée."
+                  ]
+                },
+                {
+                  "nom": "Habiletés techniques et motrices",
+                  "criteres": [
+                    "Naviguer avec aisance et placer ses appuis de façon pertinente en classe IV.",
+                    "Se positionner correctement pour franchir et réceptionner un passage de chute (positionnement dans le bateau, sur la veine d'eau et de pénétration au pied de la chute).",
+                    "Utiliser le milieu naturel solide (berge, arbre, roche et rochers) pour glisser, rebondir, s'arrêter…",
+                    "Adapter l'amplitude des coups de pagaie au relief de la rivière.",
+                    "Ouvrir un passage en classe IV."
+                  ]
+                },
+                {
+                  "nom": "Habiletés mentales",
+                  "criteres": [
+                    "Définir une trajectoire adaptée à son niveau et aux conditions de pratique du jour.",
+                    "Décider de franchir ou de porter un passage."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Environnement",
+              "categories": [
+                {
+                  "nom": "Facteurs physiques, faune & flore, patrimoine et réglementation",
+                  "criteres": [
+                    "Choisir un programme de navigation adapté à la configuration du site (outils cartographiques), en identifiant des variantes et « réchappes », et en croisant les informations météo issues de différentes sources.",
+                    "Exploiter au maximum les éléments dans la navigation en fonction des profils de rivière.",
+                    "Comprendre les principes de répartition de la faune et de la flore pour identifier des zones d'accès à l'eau.",
+                    "Identifier les aires et espèces protégées à l'échelle du bassin versant.",
+                    "Réaliser et analyser un relevé caractérisant la qualité de l'eau.",
+                    "Prendre en compte le phénomène d'espèces invasives lors d'un changement de site de pratique.",
+                    "Identifier les acteurs de la gestion de l'eau, des milieux, des Espaces Sites et itinéraires nautiques du bassin versant.",
+                    "Comprendre le rôle des collectivités et de l'état dans l'exercice de la police de navigation.",
+                    "Choisir son matériel en fonction de son impact environnemental.",
+                    "À l'issue d'une sortie ou d'une séance, évaluer son impact sur l'environnement."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "noire-eauvive",
+          "nom": "Pagaie Noire",
+          "discipline": "Rivière Sportive",
+          "couleur": "#1a1a1a",
+          "couleurTexte": "#ffffff",
+          "ordre": 4,
+          "prerequis": "Licencié·e permanent·e titulaire d'une pagaie rouge de la même discipline ou d'une pagaie noire d'une autre discipline du même milieu (ou équivalent Euro Paddle Pass).",
+          "profilPagayeur": "Pratiquant·e de kayak extrême, prend les initiatives (sécurité, trajectoire, communication, ouverture des passages) dans un groupe de navigation en rivière de classe IV et plus. Prépare et descend une rivière de classe IV non reconnue. Navigue sur au moins dix rivières naturelles différentes de classe IV.",
+          "sitePratique": "Rivière de classe IV et plus",
+          "capacites": [
+            {
+              "nom": "Sécurité",
+              "categories": [
+                {
+                  "nom": "Connaissance de son matériel et utilisation",
+                  "criteres": [
+                    "S'équiper individuellement en cohérence avec les conditions météorologiques (thermiques notamment) et de navigation (équipement adapté à la rivière).",
+                    "Disposer d'un gilet à harnais et, pour une utilisation efficiente, d'une corde, d'un couteau, d'un sifflet, d'une montre, de mousquetons et poulies, d'une sangle et d'anneaux de cordelettes, d'une pharmacie, d'une pagaie de secours, d'une scie pliable et d'un moyen de communication."
+                  ]
+                },
+                {
+                  "nom": "Aisance ou intervention aquatique",
+                  "criteres": [
+                    "Maîtriser l'esquimautage des deux côtés en classe IV (eau émulsionnée ou fort courant et grosses vagues)."
+                  ]
+                },
+                {
+                  "nom": "Communication",
+                  "criteres": [
+                    "Utiliser les signes spécifiques « secours » et la communication au sifflet.",
+                    "Connaître le schéma de communication à respecter en cas d'accident ou de besoin de faire appel aux organismes de secours."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Technique et culture sportive",
+              "categories": [
+                {
+                  "nom": "Culture sportive",
+                  "criteres": [
+                    "Intégrer les principes d'entretien de la forme physique et de récupération pour préparer une descente engagée.",
+                    "Mettre en œuvre des exercices de prophylaxie en lien avec la pratique de la rivière sportive."
+                  ]
+                },
+                {
+                  "nom": "Habiletés tactiques et stratégiques",
+                  "criteres": [
+                    "Identifier et valoriser les points forts, parer aux points faibles de ses partenaires de navigation.",
+                    "Adapter et/ou conserver son projet de navigation selon le déroulement du franchissement du rapide."
+                  ]
+                },
+                {
+                  "nom": "Habiletés techniques et motrices",
+                  "criteres": [
+                    "Naviguer en position d'ouvreur sur une descente de rivière de classe IV et plus.",
+                    "Maîtriser les techniques de giclées, de slides et d'utilisation du relief pour tenir une trajectoire.",
+                    "S'arrêter d'urgence sur un parcours non reconnu pour repérer un passage, choisir la passe ou les options de franchissement d'un rapide de classe IV et plus."
+                  ]
+                },
+                {
+                  "nom": "Habiletés mentales",
+                  "criteres": [
+                    "S'engager dans des passages de classe IV et plus.",
+                    "Ajuster finement son projet de navigation en prenant en compte les éléments (naturels et humains), son état de forme et de lucidité."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Environnement",
+              "categories": [
+                {
+                  "nom": "Facteurs physiques, faune & flore, patrimoine et réglementation",
+                  "criteres": [
+                    "Choisir le meilleur parcours de navigation, les alternatives possibles et anticiper les risques en fonction des prévisions météo, des caractéristiques du site ou du parcours, de son niveau, de son état de forme et de celui de ses partenaires de navigation, et des niveaux d'eau.",
+                    "Optimiser l'impact que peut avoir son activité sur l'environnement dans l'organisation de sa navigation.",
+                    "Maîtriser à l'échelle d'un bassin versant les interactions entre faune, flore, facteurs physiques, chimiques et biologiques.",
+                    "Identifier les gestionnaires de l'eau du bassin versant, les acteurs de la gestion de l'eau et des milieux en France.",
+                    "Proposer des scénarii permettant d'améliorer l'accès à l'eau et la continuité de navigation."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "rando",
+      "nom": "Randonnée (Descente)",
+      "icone": "🚣",
+      "niveaux": [
+        {
+          "id": "verte-rando",
+          "nom": "Pagaie Verte",
+          "discipline": "Descente",
+          "couleur": "#2e9e4f",
+          "couleurTexte": "#ffffff",
+          "ordre": 1,
+          "prerequis": "Licencié·e permanent·e titulaire d'une pagaie jaune ou ayant intégré les compétences de la pagaie jaune.",
+          "profilPagayeur": "Réalise un parcours chronométré sur une trajectoire reconnue en classe II avec le matériel spécifique de descente. Navigue en position de second·e.",
+          "sitePratique": "Évolution dans un milieu eau vive de classe II",
+          "capacites": [
+            {
+              "nom": "Sécurité",
+              "categories": [
+                {
+                  "nom": "Connaissance de son matériel et utilisation",
+                  "criteres": [
+                    "Identifier le matériel adapté à son niveau de pratique (bateau de descente stable et facile à conduire).",
+                    "Essayer différents matériels.",
+                    "Connaître les principes de calages et savoir les ajuster.",
+                    "Utiliser une pagaie avec des pales creuses en kayak.",
+                    "Entretenir son matériel après chaque utilisation.",
+                    "Utiliser une montre-chronomètre."
+                  ]
+                },
+                {
+                  "nom": "Aisance ou intervention aquatique",
+                  "criteres": [
+                    "Sortir rapidement de son bateau avec aisance en cas de dessalage.",
+                    "Nager en sécurité en eau vive (nage défensive ou active) et récupérer son matériel en le tractant jusqu'à la berge.",
+                    "Vider son bateau (avec assistance).",
+                    "Naviguer dans un convoi sans gêner les autres (gestion de la distance)."
+                  ]
+                },
+                {
+                  "nom": "Communication",
+                  "criteres": [
+                    { "texte": "Comprendre et relayer les signes organisationnels et directionnels indispensables à la navigation en groupe.", "cle": "comm-verte-signes" },
+                    "Comprendre et utiliser le vocabulaire spécifique à la discipline."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Technique et culture sportive",
+              "categories": [
+                {
+                  "nom": "Culture sportive",
+                  "criteres": [
+                    "Avoir des notions sur les principes d'échauffement.",
+                    "Connaître les grands principes d'efficacité de la propulsion (appui, transmission).",
+                    "Connaître les règles de base de l'activité et de l'équipement réglementaire à l'entraînement et en compétition.",
+                    "Identifier les observables simples lors d'une analyse vidéo."
+                  ]
+                },
+                {
+                  "nom": "Habiletés tactiques et stratégiques",
+                  "criteres": [
+                    "Gérer l'intensité de son effort dans la réalisation de la course.",
+                    "Réaliser un départ et faire une relance (avec une augmentation progressive de la vitesse de déplacement)."
+                  ]
+                },
+                {
+                  "nom": "Habiletés techniques et motrices",
+                  "criteres": [
+                    "Rechercher l'efficacité de la propulsion en pagayant verticalement.",
+                    "Rechercher l'efficacité de la propulsion en créant un point fixe avec sa pagaie.",
+                    "Rechercher l'efficacité de la propulsion en plaçant sa pale en oblique avant.",
+                    "Rechercher l'efficacité de la propulsion en immergeant la totalité de la pale dès l'attaque.",
+                    "Diriger son embarcation en utilisant la gîte et en pagayant à l'intérieur ou à l'extérieur du virage (K/C).",
+                    "Naviguer à des fréquences de pagayage différentes.",
+                    "En canoë, utiliser le col de cygne pour se diriger.",
+                    "Maîtriser les techniques du bac, du stop et de la reprise pour se déplacer sur la rivière (traverser le courant, s'arrêter, reprendre le fil de la descente).",
+                    "Naviguer dans la veine principale lors du franchissement d'un rapide.",
+                    "Maintenir l'équilibre dans une embarcation adaptée à son niveau de pratique.",
+                    "Créer des appuis équilibrateurs lors du passage d'un rapide."
+                  ]
+                },
+                {
+                  "nom": "Habiletés mentales",
+                  "criteres": [
+                    "Réaliser un plan de course simple prévu à l'avance.",
+                    "Mémoriser les trajectoires simples sur des passages de classe II (passages clés sur une course classique).",
+                    "S'engager sans appréhension et en solitaire sur un parcours long de classe II connu à l'avance."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Environnement",
+              "categories": [
+                {
+                  "nom": "Facteurs physiques, faune & flore, patrimoine et réglementation",
+                  "criteres": [
+                    { "texte": "Repérer les zones d'accès à l'eau permettant d'éviter le piétinement de la flore ou le dérangement de la faune.", "cle": "env-verte-01" },
+                    { "texte": "Respecter les zones d'habitat ou les frayères essentielles dans la préservation des écosystèmes locaux.", "cle": "env-verte-02" },
+                    { "texte": "Respecter les zones de navigation.", "cle": "env-verte-03" },
+                    { "texte": "Identifier les éléments clés du site de pratique et les dangers qu'ils peuvent représenter.", "cle": "env-verte-04" },
+                    { "texte": "Connaître et identifier différents mouvements d'eau.", "cle": "env-verte-05" },
+                    { "texte": "Observer les phénomènes de l'eau vive.", "cle": "env-verte-06" },
+                    { "texte": "Situer son site de pratique dans le cycle de l'eau.", "cle": "env-verte-07" },
+                    { "texte": "Comprendre le rôle des végétaux par rapport aux écoulements, au maintien des berges et à la qualité de l'eau.", "cle": "env-verte-08" },
+                    { "texte": "Gérer ses déchets.", "cle": "env-verte-09" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bleue-rando",
+          "nom": "Pagaie Bleue",
+          "discipline": "Descente",
+          "couleur": "#2678c4",
+          "couleurTexte": "#ffffff",
+          "ordre": 2,
+          "prerequis": "Licencié·e permanent·e titulaire d'une pagaie verte ou ayant intégré les compétences de la pagaie verte.",
+          "profilPagayeur": "Réalise un parcours chronométré en classe II passages III en autonomie avec le matériel spécifique de descente. Navigue en tête sur un parcours de classe II passages III dans un milieu connu et protégé. A une expérience de navigation en compétition de niveau national.",
+          "sitePratique": "Évolution dans un milieu eau vive de classe II passages III",
+          "capacites": [
+            {
+              "nom": "Sécurité",
+              "categories": [
+                {
+                  "nom": "Connaissance de son matériel et utilisation",
+                  "criteres": [
+                    "Optimiser ses calages en fonction des caractéristiques du bateau, des parcours et de sa morphologie.",
+                    "Utiliser les calages du bateau (cale-pieds, cale-genoux, sangle dorsale, siège, pouf, cale-hanches) pour transmettre efficacement l'énergie produite en pagayant.",
+                    "Réparer et entretenir son matériel.",
+                    "Utiliser une montre-chronomètre pour gérer sa séance."
+                  ]
+                },
+                {
+                  "nom": "Aisance ou intervention aquatique",
+                  "criteres": [
+                    "Esquimauter en classe II par tour complet.",
+                    "Franchir les zones de courant et de contre-courant, les vagues et les rouleaux.",
+                    "Gérer la distance entre les pagayeurs en fonction des caractéristiques du parcours.",
+                    "Assurer la sécurité des autres pagayeurs : ramener une embarcation et/ou une pagaie au bord."
+                  ]
+                },
+                {
+                  "nom": "Communication",
+                  "criteres": [
+                    "Utiliser les signes de communication non verbale dans le cadre des descentes de rivières.",
+                    "Verbaliser de façon précise ses intentions, son ressenti ou son projet de navigation.",
+                    "Partager ses connaissances avec ses pairs dans une démarche d'entraide."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Technique et culture sportive",
+              "categories": [
+                {
+                  "nom": "Culture sportive",
+                  "criteres": [
+                    "Connaître les différents principes de l'animation nationale et les règles de course.",
+                    "Exploiter une vidéo pour des retours de séances et de compétition.",
+                    "Suivre une séance de renforcement musculaire, de PPG et en connaître l'utilité dans le cadre de la pratique de la descente.",
+                    "Connaître les différentes filières des ressources énergétiques à l'effort.",
+                    "Connaître les implications de l'alimentation et de l'hydratation dans la pratique sportive."
+                  ]
+                },
+                {
+                  "nom": "Habiletés tactiques et stratégiques",
+                  "criteres": [
+                    "Adapter sa gestuelle ou ses appuis à son état de forme, de fatigue et au milieu.",
+                    "Utiliser le relief et le champ de force pour faciliter les changements de direction et construire une trajectoire.",
+                    "Définir un plan de course adapté aux caractéristiques, aux exigences du parcours et à son niveau.",
+                    "Repérer une trajectoire en prenant des repères fiables sur la rivière."
+                  ]
+                },
+                {
+                  "nom": "Habiletés techniques et motrices",
+                  "criteres": [
+                    "Adopter une posture qui facilite la mobilité et l'amplitude.",
+                    "Accroître son efficacité gestuelle en utilisant les groupes musculaires puissants (muscles de la ceinture scapulaire et de la ceinture abdominale).",
+                    "Moduler certains paramètres du rendement de la propulsion (verticalité, accroche, force, cadence…).",
+                    "Créer un point fixe avec sa main supérieure.",
+                    "Utiliser les membres inférieurs de manière efficace (actions de pédalage ou de poussée synchronisées avec les temps d'appuis).",
+                    "Dissocier les actions du haut et du bas du corps sur des gîtes d'amplitudes variées.",
+                    "Utiliser les calages du bateau pour déclencher et tenir les gîtes.",
+                    "Créer un appui tout en gérant l'équilibre en eau vive (équilibre dynamique propulsif en eau vive).",
+                    "Rester stable sur les gîtes tout en assurant la continuité de la propulsion notamment à l'intérieur du virage.",
+                    "Changer de fréquence pour faire varier sa vitesse en eau vive.",
+                    "Détacher son regard de la trajectoire en cours pour anticiper les changements de direction."
+                  ]
+                },
+                {
+                  "nom": "Habiletés mentales",
+                  "criteres": [
+                    "En situation, visualiser rapidement le milieu et la trajectoire la plus rapide.",
+                    "Mémoriser son parcours pour une plus grande efficacité.",
+                    "Faire évoluer son projet initial à la suite d'erreur d'appréciation ou de navigation.",
+                    "S'engager sans appréhension et en autonomie sur des parcours classe II (3)."
+                  ]
+                }
+              ]
+            },
+            {
+              "nom": "Environnement",
+              "categories": [
+                {
+                  "nom": "Facteurs physiques, faune & flore, patrimoine et réglementation",
+                  "criteres": [
+                    { "texte": "En cours de navigation, identifier avec précision les conditions environnementales et configurations types sur le lieu de pratique.", "cle": "env-bleue-01" },
+                    { "texte": "Repérer l'évolution des conditions de navigation en croisant les données météorologiques et des caractéristiques du bassin versant pour adapter sa navigation.", "cle": "env-bleue-02" },
+                    { "texte": "Comprendre le réseau hydrographique du site de pratique.", "cle": "env-bleue-03" },
+                    { "texte": "Respecter les règles de navigation en eau intérieure.", "cle": "env-bleue-04" },
+                    { "texte": "Comprendre le rôle des végétaux par rapport à la qualité de l'eau.", "cle": "env-bleue-05" },
+                    { "texte": "Comprendre le phénomène de la turbidité de l'eau et le phénomène d'eutrophisation.", "cle": "env-bleue-06" },
+                    { "texte": "Repérer une espèce invasive potentiellement présente sur le site.", "cle": "env-bleue-07" },
+                    { "texte": "Modifier son programme de navigation pour éviter le dérangement de la faune et la dégradation de zones de reproduction.", "cle": "env-bleue-08" },
+                    { "texte": "Respecter les recommandations d'utilisation des matériaux de réparation.", "cle": "env-bleue-09" },
+                    { "texte": "Identifier les acteurs locaux de la gestion de l'espace et site de pratique habituel.", "cle": "env-bleue-10" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

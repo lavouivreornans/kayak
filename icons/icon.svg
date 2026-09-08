@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a9de0"/>
+      <stop offset="1" stop-color="#1c5a96"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#water)"/>
+  <path d="M60 340 Q140 300 220 340 T380 340 T460 340" stroke="#eaf5ff" stroke-width="18" fill="none" stroke-linecap="round" opacity="0.55"/>
+  <path d="M40 390 Q140 350 240 390 T440 390" stroke="#eaf5ff" stroke-width="18" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <ellipse cx="256" cy="270" rx="150" ry="34" fill="#f5c518"/>
+  <ellipse cx="256" cy="264" rx="150" ry="30" fill="#ffd94d"/>
+  <line x1="140" y1="150" x2="372" y2="378" stroke="#1c2a32" stroke-width="20" stroke-linecap="round"/>
+  <ellipse cx="140" cy="150" rx="26" ry="46" transform="rotate(45 140 150)" fill="#e8e8e8"/>
+  <ellipse cx="372" cy="378" rx="26" ry="46" transform="rotate(45 372 378)" fill="#e8e8e8"/>
+</svg>
